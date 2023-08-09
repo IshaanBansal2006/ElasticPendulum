@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
+#Ishaan Bansal
+#Coded using Jupyter Notebook
 
 import pygame
 import sys
